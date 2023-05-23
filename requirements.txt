@@ -6,7 +6,7 @@ numpy
 Pillow
 https://github.com/pyrogram/pyrogram/archive/asyncio-dev.zip
 #requests
-requests==2.24.0
+requests==2.31.0
 telethon
 tgcrypto
 hurry.filesize
